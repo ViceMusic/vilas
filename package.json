@@ -1,0 +1,21 @@
+{
+  "name": "vilas",
+  "version": "0.3.3",
+  "description": "a simple orm framework",
+  "main": "/dist/src/index.js",
+  "dependencies": {
+    "mysql2": "^3.6.0",
+    "typescript": "^5.3.3"
+  },
+  "keywords": [
+    "node",
+    "orm",
+    "javascript",
+    "es6"
+  ],
+  "author": "vicemusic5",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^20.9.4"
+  }
+}
