@@ -1,6 +1,6 @@
 {
   "name": "vilas",
-  "version": "0.3.3",
+  "version": "0.3.4",
   "description": "a simple orm framework",
   "main": "/dist/src/index.js",
   "dependencies": {
@@ -16,6 +16,6 @@
   "author": "vicemusic5",
   "license": "MIT",
   "devDependencies": {
-    "@types/node": "^20.9.4"
+    "@types/node": "^20.11.21"
   }
 }

@@ -1,7 +1,7 @@
 "use strict";
 const DBC = require('./DBC');
-const Filter = require('./MysqlClass/Filter');
-const { value, column } = require("./MysqlClass/MethodGetClassOfMysql");
+const Filter = require('./Class/Filter');
+const { value, column } = require("./Class/Method");
 module.exports = {
     DBC: DBC,
     Filter: Filter,

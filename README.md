@@ -2,11 +2,13 @@
 
 > * author: ViceMusic5 
 > * email: xarnudvilas@gmail.com
-> * version:0.3.3
+> * version:0.3.4
 
 just a simple project developed and maintained by a undergraduate
 
 > ChangeLog:
+>
+> some frame and code change:D
 >
 > Now we start to use typescript as the fundamental language， and switch ‘commonJS’ to ‘es6’。Maybe you can use this framework in FRONT insteal END
 >

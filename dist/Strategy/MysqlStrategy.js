@@ -1,6 +1,6 @@
 "use strict";
 const mysql = require('mysql2');
-const Filter = require('../MysqlClass/Filter');
+const Filter = require('../Class/Filter');
 class MysqlStrategy {
     //数据库链接方法
     constructor(url, username, password, databaseName, port) {

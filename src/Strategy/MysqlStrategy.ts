@@ -1,5 +1,5 @@
 const mysql=require( 'mysql2')
-const Filter=require( '../MysqlClass/Filter')
+const Filter=require( '../Class/Filter')
 class MysqlStrategy{
     //数据库链接对象,
     databaseController:Connection;

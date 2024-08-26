@@ -29,8 +29,6 @@ dbc.disConnect();
 // 其次就是注意一下export default 导出的是一个值
 // 而export允许到处多个数值，但是二者都能正常使用结构语法，问题不大的
 
-// 
-
 //获取当前node的全局位置的方法为npm config get prefix
 //然后就可以将全局下载的内容设置为全局变量
 

@@ -1,7 +1,7 @@
 const MysqlStrategy =require("./Strategy/MysqlStrategy")
 class DBC{
     //一些属性：y
-    Strategy: MysqlStrategy;
+    Strategy: any;
     
     //构造器
     constructor(obj:{database:string,url:string,username:string,password:string,databaseName:string,port?:number}) {
@@ -24,7 +24,6 @@ class DBC{
         }else{
             throw new Error('The connection is not established !');
         }
-
     }
 
 }
